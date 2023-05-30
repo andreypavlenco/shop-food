@@ -1,5 +1,4 @@
 import React, { FC } from 'react';
-
 import ListOrder from '../components/Lists/ListOrders/ListOrder';
 import { useDispatch } from 'react-redux';
 import { orderAllRemove, orderRemove, quantityAdd, quantityLess } from '../store/orderSlice';

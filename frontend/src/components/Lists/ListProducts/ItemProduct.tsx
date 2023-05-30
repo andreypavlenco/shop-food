@@ -1,5 +1,4 @@
 import React, { FC } from 'react';
-
 import ButtonOrder from './ButtonOrder';
 import { foodType } from '../../../types';
 

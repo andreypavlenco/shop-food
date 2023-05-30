@@ -1,5 +1,4 @@
 import React, { FC } from 'react';
-
 import ButtonRemove from './ButtonRemove';
 import NumberStepper from './NumberStepper';
 import { orderType } from '../../../types';

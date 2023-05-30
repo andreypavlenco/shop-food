@@ -1,6 +1,5 @@
 import React, { FC } from 'react';
 import ItemProduct from './ItemProduct';
-
 import { useQuery } from 'react-query';
 import { productService } from '../../../services';
 import { foodType } from '../../../types';

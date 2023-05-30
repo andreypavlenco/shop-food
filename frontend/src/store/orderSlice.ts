@@ -1,5 +1,4 @@
 import { orderType } from './../types/orderType';
-
 import { PayloadAction, createSlice } from '@reduxjs/toolkit';
 import { foodType } from '../types';
 

@@ -1,5 +1,4 @@
 import React, { FC } from 'react';
-
 import { useDispatch } from 'react-redux';
 import { orderAdd } from '../../../store/orderSlice';
 import { foodType } from '../../../types';

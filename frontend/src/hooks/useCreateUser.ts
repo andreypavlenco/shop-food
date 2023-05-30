@@ -1,5 +1,4 @@
 import { useMutation } from 'react-query';
-
 import { userService } from '../services';
 import { userType } from '../types';
 
