@@ -1,4 +1,4 @@
-# **Instruction on how to run the shop-food**
+# **Shop-Food**
 
 
 
